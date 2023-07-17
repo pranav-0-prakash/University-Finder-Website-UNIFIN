@@ -1,0 +1,74 @@
+/* Global Styles */
+header {
+      background-color:lightseagreen;
+      color: paleturquoise;
+      padding: 5px;
+      text-align: center;
+    }
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color:lightblue;
+}
+
+td {
+justify-contents:center;
+  padding-top:0px;
+  padding-bottom:0px;
+  padding-left: 100px;
+  padding-right: 250px;
+}
+
+h1 {
+	font-size: 36px;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 24px;
+	margin: 0;
+	padding: 10px;
+}
+
+p {
+	font-size: 18px;
+	margin: 0;
+	padding: 20px;
+}
+
+/* Card Styles */
+
+.card {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: 20px auto;
+	max-width: 900px;
+	overflow: hidden;
+	margin-top:50px;
+}
+
+.mission {
+	border-top: 10px solid #0077be;
+}
+
+.vision {
+	border-top: 10px solid #00a651;
+}
+
+.message {
+	border-top: 10px solid #f36c21;
+}
+#GF{
+	text-decoration:none;
+	color:lightblue;
+}
+#A{
+	color: lightseagreen;
+}
+footer{
+	background-color:lightseagreen;
+}
